@@ -1,0 +1,44 @@
+.still{
+
+  color: rgb(230, 116, 216);
+  width: 100%;
+  background-color:aqua;
+  font-size:2em;
+  border: 3px solid #cbc7cb;
+  border-radius: 10px;
+
+}
+
+.stillTwo{
+  color:aqua;
+  background-color:rgb(230, 116, 216);
+  font-size:2em;
+  border: 3px solid #cbc7cb;
+  border-radius: 10px;
+  width: 100%;
+}
+
+
+.inputstill{
+  text-align: center;
+  
+  height: 60px;
+  background-color:rgb(135, 237, 255);
+  font-size: 2em;
+  border: 3px solid #19d5d5;
+  border-radius: 10px;
+  
+  
+}
+
+.inputstillTwo{
+  background-color:rgba(135, 221, 255, 0.468);
+  font-size: 1em;
+  align-items: center;
+  border: 3px solid #19d5d5;
+  border-radius: 10px;
+  text-align: center;
+  height: 50px;
+  width: 100%;
+}
+
